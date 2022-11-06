@@ -1,9 +1,9 @@
-# 📣 Current Status of Playstation Home Revival Servers/Services:
+# 📣 Current Status of RE:LΞGION Servers/Services:
 
 <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Alpha%20Phase%20I-orange"></a>
     
-![NPIA00005_screenshot_2022_05_11_21_59_37](https://cdn.discordapp.com/attachments/968799865154986030/1038866889385984162/78296f2e895fa5a9706868ac968785ad.jpg)
+![NPIA00005_screenshot_2022_05_11_21_59_37](https://cdn.discordapp.com/attachments/968799865154986030/1038871254159077446/mp_screenshot_2-970x570.png)
   
  ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the network services & functions within Home's intricate ecosystem.
 :---: | :---  
