@@ -1,7 +1,7 @@
 # 📣 Current Status of RE:LΞGION Servers/Services:
 
 <p align="center">
-  <a href="https://discord.gg/ErQ5WJkjtJ"><img src="https://img.shields.io/badge/Testing%20Period-Downtime-red"></a>
+  <a href="https://discord.gg/ErQ5WJkjtJ"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Alpha%20Phase%20II-orange"></a>
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://cdn.discordapp.com/attachments/968799865154986030/1038871254159077446/mp_screenshot_2-970x570.png)
   
