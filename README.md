@@ -5,7 +5,7 @@
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://pbs.twimg.com/media/FhITY_NWQAIFS8B?format=jpg&name=small)
   
- ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the network services & functions within Home's intricate ecosystem.
+ ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the network services & functions.
 :---: | :---  
 
 
