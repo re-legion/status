@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://discord.gg/ErQ5WJkjtJ"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Alpha%20Phase%20II-orange"></a>
     
-![NPIA00005_screenshot_2022_05_11_21_59_37](https://cdn.discordapp.com/attachments/968799865154986030/1038871254159077446/mp_screenshot_2-970x570.png)
+![NPIA00005_screenshot_2022_05_11_21_59_37](https://pbs.twimg.com/media/FhITY_NWQAIFS8B?format=jpg&name=small)
   
  ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the network services & functions within Home's intricate ecosystem.
 :---: | :---  
