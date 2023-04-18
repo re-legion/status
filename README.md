@@ -1,11 +1,11 @@
 # 📣 Current Status of RE:LΞGION Servers/Services:
 
 <p align="center">
-  <a href="https://discord.gg/ErQ5WJkjtJ"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Alpha%20Phase%20II-orange"></a>
+  <a href="https://discord.gg/ErQ5WJkjtJ"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20I-green"></a>
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://cdn.vox-cdn.com/thumbor/TunYrBz8GiZ8KQ_4-2vtROhQe7M=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68958445/coop.0.jpg?format=jpg&name=small)
   
- ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the network services & functions.
+ ℹ️ | Currently we are in our closed/internal **Beta-Testing phase**. During this time we are working on fixing the network services & functions.
 :---: | :---  
 
 
